@@ -2,15 +2,19 @@
 
 A modern, responsive portfolio and resume website tailored for **Riya Gupta**, Analytics Solutions Analyst at **JPMorgan Chase & Co.**
 
-## Live Localhost Server
-The website is currently running on:
+## 🌐 Live Website
+The website is published live on GitHub Pages:
+👉 **[https://riyagupta-1502.github.io/demo-website/](https://riyagupta-1502.github.io/demo-website/)**
+
+## 💻 Localhost Preview
+The website can also be run locally on:
 **[http://localhost:8000](http://localhost:8000)**
 
-To run it again at any point in the future from this directory:
+To start the local server from this directory at any time:
 ```bash
 python3 -m http.server 8000
 ```
-Then navigate to `http://localhost:8000` in any web browser.
+Then open `http://localhost:8000` in your browser.
 
 ---
 
